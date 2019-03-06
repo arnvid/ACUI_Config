@@ -1,0 +1,9 @@
+## Interface: 11100
+## Title: ACUI_Config
+## Author: Arnvid
+## eMail: arnvid@gmail.com
+## Version: 0.6.0
+## Notes: Version 0.6.0 - Allows default configuration to be maintained and restored.
+## SavedVariables: ACUI_FirstRun, ACUI_Defaults
+## OptionalDeps: myAddOns
+ACUI_Config.xml
